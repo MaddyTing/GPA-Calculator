@@ -1,3 +1,4 @@
+#Unweighted
 
 def GPAcalc(w):
     if (w == "A" or w == "a"):
