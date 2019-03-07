@@ -1,3 +1,4 @@
+#Unweighted and Weighted GPA
 
 def GPAcalc(w, x):
     if (w == "A" or w == "a"):
