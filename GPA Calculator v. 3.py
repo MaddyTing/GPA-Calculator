@@ -1,3 +1,4 @@
+# Unweighted and Weighted - Lets your enter # of classes
 
 def GPAcalc(w, x):
     if (w == "A" or w == "a"):
